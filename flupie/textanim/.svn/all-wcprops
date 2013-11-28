@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/156/trunk/source/flupie/textanim
+END
+TextAnimMode.as
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/141/trunk/source/flupie/textanim/TextAnimMode.as
+END
+TextAnimBlock.as
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/141/trunk/source/flupie/textanim/TextAnimBlock.as
+END
+TextAnimAnchor.as
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/141/trunk/source/flupie/textanim/TextAnimAnchor.as
+END
+TextAnimSplit.as
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/156/trunk/source/flupie/textanim/TextAnimSplit.as
+END
+Splitter.as
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/141/trunk/source/flupie/textanim/Splitter.as
+END
+DispatchFlow.as
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/141/trunk/source/flupie/textanim/DispatchFlow.as
+END
+TextAnim.as
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/156/trunk/source/flupie/textanim/TextAnim.as
+END
+TextAnimTools.as
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/156/trunk/source/flupie/textanim/TextAnimTools.as
+END
+TextAnimEvent.as
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/141/trunk/source/flupie/textanim/TextAnimEvent.as
+END
